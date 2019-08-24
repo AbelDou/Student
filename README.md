@@ -1,2 +1,0 @@
-# Study.github.io
-study
